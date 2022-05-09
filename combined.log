@@ -1,0 +1,105 @@
+{"level":"error","message":"Invalid postcode sjhtrn","service":"user-service"}
+{"level":"info","message":"postcodeLatitude: 51.487193 ,postcodeLongitude: -0.094285 ","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380E , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380H , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380F , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380G , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Westmoreland Road , Nepton Id : 490014501J , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180N , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180W , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"postcodeLatitude: 51.514695 ,postcodeLongitude: -0.2497 ","service":"user-service"}
+{"level":"info","message":"Common name : Westway , Nepton Id : 490014446I , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Western Avenue / Savoy Circus , Nepton Id : 490014446L , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Acton Lane / Old Oak Road , Nepton Id : 490011937J , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Old Oak Common Lane / Savoy Circus , Nepton Id : 490014446K , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Savoy Circus , Nepton Id : 490011937P , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Acton Station , Nepton Id : 490000065H , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Savoy Circus , Nepton Id : 490011937X , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Western Avenue / Savoy Circus , Nepton Id : 490014446N , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Acton Station / Fitzneal Street , Nepton Id : 490000065C , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"postcodeLatitude: 51.513309 ,postcodeLongitude: -0.248908 ","service":"user-service"}
+{"level":"info","message":"Common name : East Acton Lane / Old Oak Road , Nepton Id : 490011937J , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Old Oak Common Lane / Savoy Circus , Nepton Id : 490014446K , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Savoy Circus , Nepton Id : 490011937P , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Savoy Circus , Nepton Id : 490011937X , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Hilary Road , Nepton Id : 490011937N , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Western Avenue / Savoy Circus , Nepton Id : 490014446L , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Westway , Nepton Id : 490014446I , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Hemlock Road , Nepton Id : 490015227S , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"postcodeLatitude: 51.513309 ,postcodeLongitude: -0.248908 ","service":"user-service"}
+{"level":"info","message":"Common name : East Acton Lane / Old Oak Road , Nepton Id : 490011937J , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Old Oak Common Lane / Savoy Circus , Nepton Id : 490014446K , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Savoy Circus , Nepton Id : 490011937P , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Savoy Circus , Nepton Id : 490011937X , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Hilary Road , Nepton Id : 490011937N , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Western Avenue / Savoy Circus , Nepton Id : 490014446L , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Westway , Nepton Id : 490014446I , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Hemlock Road , Nepton Id : 490015227S , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"There are not any bus coming to this bus stop","service":"user-service"}
+{"level":"info","message":"postcodeLatitude: 51.487193 ,postcodeLongitude: -0.094285 ","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380E , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380H , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380F , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380G , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Westmoreland Road , Nepton Id : 490014501J , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180N , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180W , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"postcodeLatitude: 51.487193 ,postcodeLongitude: -0.094285 ","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380E , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380H , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380F , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380G , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Westmoreland Road , Nepton Id : 490014501J , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180N , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180W , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"postcodeLatitude: 51.487193 ,postcodeLongitude: -0.094285 ","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380E , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380H , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380F , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380G , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Westmoreland Road , Nepton Id : 490014501J , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180N , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180W , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380H?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy","service":"user-service"}
+{"level":"info","message":"postcodeLatitude: 51.487193 ,postcodeLongitude: -0.094285 ","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380E , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380H , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380F , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380G , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Westmoreland Road , Nepton Id : 490014501J , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180N , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180W , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380E?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy","service":"user-service"}
+{"level":"error","message":"Invalid postcode : shdjyte"}
+{"level":"error","message":"Invalid postcode : dgstgfeb"}
+{"level":"error","message":"Not a london postcode : rg217tn"}
+{"level":"error","message":"Not a london postcode : rg217tn"}
+{"level":"error","message":"Fetch failed attempting to access https://api.postcodes.io/postcodes/se172tq"}
+{"level":"info","message":"postcodeLatitude: 51.487193 ,postcodeLongitude: -0.094285 ","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380E , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380H , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380F , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380G , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Westmoreland Road , Nepton Id : 490014501J , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180N , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180W , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380H?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy","service":"user-service"}
+{"level":"info","message":"postcodeLatitude: 51.487193 ,postcodeLongitude: -0.094285 ","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380E , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380H , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380F , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380G , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Westmoreland Road , Nepton Id : 490014501J , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180N , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180W , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380E?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy","service":"user-service"}
+{"level":"info","message":"postcodeLatitude: 51.487193 ,postcodeLongitude: -0.094285 ","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380E , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380H , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380F , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : East Street , Nepton Id : 490006380G , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Westmoreland Road , Nepton Id : 490014501J , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180N , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"Common name : Penrose Street / Walworth Road , Nepton Id : 490014180W , Indicator : $[3]","service":"user-service"}
+{"level":"info","message":"https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380E?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy","service":"user-service"}
+{"level":"info","message":"https://api.tfl.gov.uk/Journey/JourneyResults/se172tq/to/490006380H?timeIs=Arriving&journeyPreference=LeastInterchange&accessibilityPreference=NoRequirements&walkingSpeed=Slow&cyclePreference=None&bikeProficiency=Easy","service":"user-service"}
